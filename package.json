@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "bin": {
-    "hull-connector-bot": "src/bin.js"
+    "hull-connector-tester": "src/bin.js"
   },
   "author": "",
   "license": "MIT",

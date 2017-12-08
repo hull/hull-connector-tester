@@ -2,7 +2,7 @@ const fs = require("fs");
 
 module.exports = function checkPackageEngines() {
 
-  const allowedVersions = ["0.13.6", "0.12.7", "0.11.13"];
+  const allowedVersions = ["0.13.8", "0.12.7", "0.11.13"];
 
   const packageJson = JSON.parse(fs.readFileSync(`${process.cwd()}/package.json`, "utf-8"));
   const { hull } = packageJson.dependencies;

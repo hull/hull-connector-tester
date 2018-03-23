@@ -1,6 +1,9 @@
 # CHANGELOG
 
-## v0.0.5
+## v0.0.7
+- added manifest json lint, changed hull-node-version check to require one of versions: "0.13.11", "0.12.7", "0.11.13"
+
+## v0.0.6
 - changed package-engines check to require `{"node": "6.13.x","npm": "3.10.x","yarn": "1.5.x"}` or `{"node": "8.10.x","npm": "5.6.x","yarn": "1.5.x"}`
 
 ## v0.0.5

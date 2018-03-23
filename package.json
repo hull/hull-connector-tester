@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "circle-github-bot": "^0.4.0"
+    "circle-github-bot": "^0.4.0",
+    "jsonlint": "^1.6.3"
   }
 }

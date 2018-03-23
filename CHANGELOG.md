@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v0.0.8
+- fix
+
 ## v0.0.7
 - added manifest json lint, changed hull-node-version check to require one of versions: "0.13.11", "0.12.7", "0.11.13"
 

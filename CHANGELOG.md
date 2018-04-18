@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v0.0.10
+- update documentation
+- remove unnecessary dependency
+
 ## v0.0.9
 - changed hull-node-version check to require one of versions: `0.13.14`
 

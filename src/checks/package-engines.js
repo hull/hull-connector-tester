@@ -10,7 +10,7 @@ module.exports = function checkPackageEngines() {
     return true;
   }
 
-  if (node === "8.10.x"
+  if (node === "8.11.x"
     && npm === "5.6.x"
     && yarn === "1.5.x") {
     return true;
@@ -21,5 +21,5 @@ module.exports = function checkPackageEngines() {
   should be:
   {"node": "6.13.x","npm": "3.10.x","yarn": "1.5.x"}
   or
-  {"node": "8.10.x","npm": "5.6.x","yarn": "1.5.x"}`;
+  {"node": "8.11.x", "npm": "5.6.x", "yarn": "1.5.x"}`;
 };

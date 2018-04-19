@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v0.0.11
+- changed package-engines check to require node `8.11.x` instead of `8.10.x`
+
 ## v0.0.10
 - update documentation
 - remove unnecessary dependency

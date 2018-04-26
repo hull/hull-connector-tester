@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v0.0.13
+- update docs
+
 ## v0.0.12
 - update readme
 

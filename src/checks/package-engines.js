@@ -1,5 +1,10 @@
 const fs = require("fs");
 
+/**
+ * This check enforces specific versions of
+ * node, npm and yarn being specified in package.json
+ * @return {boolean|string}
+ */
 module.exports = function checkPackageEngines() {
 
   const packageJson = JSON.parse(fs.readFileSync(`${process.cwd()}/package.json`, "utf-8"));

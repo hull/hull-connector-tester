@@ -1,6 +1,10 @@
 const fs = require("fs");
 
-module.exports = function checkPackageEngines() {
+/**
+ * This check enforces latest hull-node version
+ * @return {boolean|string}
+ */
+module.exports = function checkHullNodeVersion() {
 
   const allowedVersions = ["0.13.14"];
 

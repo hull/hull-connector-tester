@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v0.0.14
+- changed package-engines check to require yarn `1.6.x` instead of `1.5.x`
+
 ## v0.0.13
 - update docs
 

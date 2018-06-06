@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v0.0.15
+- changed hull-node-version check to require versions: "0.13.15"
+
 ## v0.0.14
 - changed package-engines check to require yarn `1.6.x` instead of `1.5.x`
 

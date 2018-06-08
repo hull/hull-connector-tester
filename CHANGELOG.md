@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v0.0.17
+- added base structure check, enforcing server/server.js and server/index.js file
+
 ## v0.0.16
 - changed hull-node-version check to require versions: "0.13.16"
 

@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v0.0.18
+- adds missing deps
+
 ## v0.0.17
 - added base structure check, enforcing server/server.js and server/index.js file
 

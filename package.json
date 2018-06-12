@@ -1,6 +1,6 @@
 {
   "name": "hull-connector-tester",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "",
   "main": "src/bin.js",
   "scripts": {
@@ -12,6 +12,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "babel-plugin-syntax-object-rest-spread": "^6.13.0",
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
     "babel-register": "^6.26.0",
     "jsonlint": "^1.6.3"
   }

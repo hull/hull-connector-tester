@@ -1,4 +1,4 @@
-require("babel-register");
+// require("babel-register");
 const fs = require("fs");
 const path = require("path");
 
@@ -17,11 +17,11 @@ module.exports = function checkHullNodeVersion() {
     return "missing server/index.js file";
   }
 
-  const server = require(serverPath);
+  // const server = require(serverPath);
 
-  if (typeof server !== "function") {
-    return "server/server.js file must return a function";
-  }
+  // if (typeof server !== "function") {
+  //   return "server/server.js file must return a function";
+  // }
 
   return true;
 };

@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## v0.0.19
+- temporarily disable checks basing on babel 
+
 ## v0.0.18
 - adds missing deps
 

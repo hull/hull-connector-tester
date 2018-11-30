@@ -6,7 +6,7 @@ const fs = require("fs");
  */
 module.exports = function checkHullNodeVersion() {
 
-  const allowedVersions = ["0.13.16"];
+  const allowedVersions = ["0.13.17"];
 
   const packageJson = JSON.parse(fs.readFileSync(`${process.cwd()}/package.json`, "utf-8"));
   const { hull } = packageJson.dependencies;

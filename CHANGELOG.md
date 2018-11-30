@@ -1,7 +1,10 @@
 # CHANGELOG
 
+## v0.0.20
+- changed hull-node-version check to require versions: "0.13.17"
+
 ## v0.0.19
-- temporarily disable checks basing on babel 
+- temporarily disable checks basing on babel
 
 ## v0.0.18
 - adds missing deps

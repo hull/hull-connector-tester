@@ -1,5 +1,7 @@
 # CHANGELOG
 
+## v0.0.23
+- changed hull-node-version check to require versions: "0.13.23"
 ## v0.0.20
 - changed hull-node-version check to require versions: "0.13.17"
 
